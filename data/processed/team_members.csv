@@ -1,0 +1,19 @@
+member_id,team_id,role,seniority
+1,1,Senior Developer,Senior
+2,1,Senior Developer,Senior
+3,1,Senior Developer,Senior
+4,1,Junior Developer,Junior
+5,1,Junior Developer,Junior
+6,2,API Specialist,Specialist
+7,2,Senior Database Engineer,Senior
+8,2,Junior Database Engineer,Junior
+9,3,Senior Developer,Senior
+10,3,Senior Developer,Senior
+11,3,Senior Developer,Senior
+12,3,Junior Developer,Junior
+13,3,Junior Developer,Junior
+14,4,Senior Developer,Senior
+15,4,Senior Developer,Senior
+16,4,Senior Developer,Senior
+17,4,Junior Developer,Junior
+18,4,Junior Developer,Junior

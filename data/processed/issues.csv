@@ -1,0 +1,501 @@
+issue_id,issue_key,project_id,team_id,epic_id,assignee_id,issue_type,priority,summary,created_at,resolved_at,story_points,current_status,sprint_id
+1,PROJA-00001,1,1,1,2,Story,P3,Build offline sync page,2025-08-02 11:23:00,2025-08-19 13:23:00,3,Done,42
+2,PROJA-00002,1,1,1,2,Story,P3,Build payments page,2024-10-17 16:09:00,2024-11-04 17:09:00,5,Done,21
+3,PROJA-00003,1,1,1,2,Bug,P2,Resolve UI regression in payments,2024-08-12 13:36:00,2024-08-17 17:36:00,2,Done,17
+4,PROJA-00004,1,1,1,1,Story,P1,Create settings admin tool,2025-01-28 11:46:00,2025-02-06 15:46:00,5,Done,29
+5,PROJA-00005,1,1,1,2,Story,P3,Implement reports workflow,2025-12-11 13:44:00,2026-01-09 14:44:00,5,Done,51
+6,PROJA-00006,1,1,1,4,Story,P3,Create settings admin tool,2024-11-28 17:40:00,2024-12-15 18:40:00,3,Done,24
+7,PROJA-00007,1,1,1,3,Story,P1,Refine accessibility UX,2024-11-11 10:28:00,,13,Backlog,23
+8,PROJA-00008,1,1,1,5,Story,P2,Implement billing workflow,2025-04-20 17:42:00,2025-05-03 18:42:00,5,Done,34
+9,PROJA-00009,1,1,1,3,Story,P4,Add search module,2024-01-09 15:33:00,2024-01-24 18:33:00,1,Done,1
+10,PROJA-00010,1,1,1,5,Story,P3,Add audit log module,2024-06-09 16:36:00,,2,In Progress,12
+11,PROJA-00011,1,1,2,3,Bug,P4,Correct layout in checkout,2025-11-21 08:14:00,2025-12-08 11:14:00,1,Done,50
+12,PROJA-00012,1,1,2,1,Story,P3,Create notifications admin tool,2025-06-04 12:30:00,2025-06-21 17:30:00,13,Done,38
+13,PROJA-00013,1,1,2,3,Story,P2,Implement settings workflow,2024-03-09 14:13:00,2024-03-17 16:13:00,3,Done,5
+14,PROJA-00014,1,1,2,4,Story,P2,Refine audit log UX,2025-11-14 15:53:00,2025-11-22 20:53:00,5,Done,49
+15,PROJA-00015,1,1,2,4,Story,P2,Create notifications admin tool,2025-12-31 09:11:00,2026-01-04 09:11:00,5,Done,52
+16,PROJA-00016,1,1,2,3,Story,P3,Build checkout page,2024-10-19 16:12:00,2024-11-12 19:12:00,5,Done,21
+17,PROJA-00017,1,1,2,1,Story,P3,Refine offline sync UX,2024-07-14 12:40:00,2024-08-08 12:40:00,8,Done,14
+18,PROJA-00018,1,1,2,5,Story,P3,Implement profile workflow,2025-11-06 15:54:00,2025-11-23 20:54:00,13,Done,49
+19,PROJA-00019,1,1,2,5,Story,P1,Refine profile UX,2025-09-22 16:53:00,,3,Backlog,46
+20,PROJA-00020,1,1,2,1,Story,P4,Build reports page,2025-07-06 13:59:00,,8,In Progress,40
+21,PROJA-00021,1,1,3,5,Story,P2,Build admin page,2025-01-13 13:38:00,2025-01-18 13:38:00,5,Done,28
+22,PROJA-00022,1,1,3,2,Bug,P3,Correct layout in rate limiting,2025-05-20 09:00:00,2025-06-05 13:00:00,1,Done,37
+23,PROJA-00023,1,1,3,4,Story,P4,Implement payments workflow,2024-09-05 16:22:00,2024-10-07 17:22:00,3,Done,18
+24,PROJA-00024,1,1,3,5,Story,P3,Implement billing workflow,2025-04-25 14:11:00,,5,Selected for Development,35
+25,PROJA-00025,1,1,3,1,Bug,P4,Fix session issue in payments,2024-10-13 15:41:00,2024-11-22 16:41:00,5,Done,21
+26,PROJA-00026,1,1,3,4,Story,P4,Refine payments UX,2025-07-31 13:32:00,2025-08-27 18:32:00,8,Done,42
+27,PROJA-00027,1,1,3,3,Bug,P3,Fix PHP bug in checkout,2024-11-29 08:02:00,2024-12-10 13:02:00,5,Done,24
+28,PROJA-00028,1,1,3,1,Story,P3,Refine notifications UX,2025-11-16 09:10:00,2025-12-18 09:10:00,3,Done,49
+29,PROJA-00029,1,1,3,5,Story,P3,Build audit log page,2024-09-17 16:01:00,2024-10-12 21:01:00,5,Done,19
+30,PROJA-00030,1,1,3,1,Story,P2,Implement login workflow,2025-12-04 09:05:00,2025-12-14 10:05:00,3,Done,51
+31,PROJA-00031,1,1,4,2,Story,P3,Create admin admin tool,2024-10-26 11:18:00,2024-11-15 12:18:00,3,Done,22
+32,PROJA-00032,1,1,4,4,Story,P4,Refine admin UX,2025-02-25 15:14:00,2025-04-06 16:14:00,8,Done,31
+33,PROJA-00033,1,1,4,1,Story,P3,Refine notifications UX,2024-11-06 16:26:00,2024-11-25 19:26:00,5,Done,23
+34,PROJA-00034,1,1,4,4,Bug,P2,Patch validation issue in accessibility,2024-12-23 16:38:00,2025-01-02 19:38:00,5,Done,26
+35,PROJA-00035,1,1,4,2,Story,P3,Refine login UX,2025-10-19 15:22:00,,5,Selected for Development,47
+36,PROJA-00036,1,1,4,4,Story,P3,Add billing module,2025-02-09 17:57:00,2025-02-25 18:57:00,3,Done,29
+37,PROJA-00037,1,1,4,1,Bug,P1,Fix PHP bug in payments,2024-06-12 10:58:00,2024-06-18 15:58:00,1,Done,12
+38,PROJA-00038,1,1,4,1,Bug,P3,Fix PHP bug in settings,2024-01-30 16:43:00,2024-02-17 20:43:00,8,Done,3
+39,PROJA-00039,1,1,4,3,Story,P1,Implement search workflow,2025-03-05 09:51:00,2025-03-09 14:51:00,5,Done,31
+40,PROJA-00040,1,1,4,2,Story,P2,Add profile module,2025-11-04 17:43:00,2025-11-09 21:43:00,1,Done,49
+41,PROJA-00041,1,1,5,3,Bug,P3,Fix session issue in reports,2024-01-30 12:46:00,,3,Backlog,3
+42,PROJA-00042,1,1,5,5,Bug,P4,Fix session issue in accessibility,2025-06-04 15:22:00,,5,Backlog,38
+43,PROJA-00043,1,1,5,1,Story,P3,Add checkout module,2025-10-06 15:56:00,2025-11-06 20:56:00,3,Done,47
+44,PROJA-00044,1,1,5,4,Story,P4,Refine settings UX,2025-10-12 16:19:00,2025-12-13 19:19:00,5,Done,47
+45,PROJA-00045,1,1,5,3,Story,P2,Implement offline sync workflow,2025-12-14 11:16:00,2025-12-22 13:16:00,3,Done,51
+46,PROJA-00046,1,1,5,1,Bug,P3,Resolve UI regression in accessibility,2025-05-01 12:30:00,2025-05-12 12:30:00,3,Done,35
+47,PROJA-00047,1,1,5,2,Story,P3,Refine export UX,2024-08-07 17:28:00,2024-08-31 22:28:00,2,Done,16
+48,PROJA-00048,1,1,5,5,Bug,P3,Correct layout in export,2024-03-24 13:20:00,2024-04-10 18:20:00,3,Done,6
+49,PROJA-00049,1,1,5,1,Bug,P2,Fix session issue in notifications,2025-08-04 13:30:00,2025-08-11 18:30:00,5,Done,42
+50,PROJA-00050,1,1,5,5,Story,P3,Refine billing UX,2025-09-13 13:01:00,,5,Selected for Development,45
+51,PROJA-00051,1,1,6,2,Bug,P4,Resolve UI regression in search,2024-09-03 16:12:00,2024-09-26 21:12:00,3,Done,18
+52,PROJA-00052,1,1,6,1,Bug,P4,Resolve UI regression in checkout,2024-08-04 09:46:00,,3,Selected for Development,16
+53,PROJA-00053,1,1,6,2,Story,P3,Add profile module,2025-12-26 13:47:00,2026-01-26 18:47:00,3,Done,52
+54,PROJA-00054,1,1,6,2,Bug,P2,Resolve UI regression in admin,2024-04-03 16:20:00,2024-04-13 18:20:00,2,Done,7
+55,PROJA-00055,1,1,6,2,Story,P3,Refine login UX,2024-12-03 16:21:00,2024-12-30 20:21:00,3,Done,25
+56,PROJA-00056,1,1,6,1,Bug,P3,Correct layout in export,2025-11-07 15:47:00,2025-11-14 19:47:00,1,Done,49
+57,PROJA-00057,1,1,6,4,Bug,P4,Patch validation issue in profile,2025-03-27 10:26:00,,1,Backlog,33
+58,PROJA-00058,1,1,6,1,Story,P3,Build notifications page,2025-02-18 12:35:00,2025-02-26 13:35:00,8,Done,30
+59,PROJA-00059,1,1,6,2,Story,P1,Refine profile UX,2025-02-20 16:53:00,2025-02-24 16:53:00,13,Done,30
+60,PROJA-00060,1,1,6,1,Bug,P4,Patch validation issue in offline sync,2025-10-16 16:28:00,2025-11-07 19:28:00,1,Done,47
+61,PROJA-00061,1,1,7,2,Bug,P3,Correct layout in payments,2024-08-04 08:17:00,2024-08-18 10:17:00,3,Done,16
+62,PROJA-00062,1,1,7,2,Bug,P2,Resolve UI regression in billing,2024-05-10 15:41:00,2024-05-20 17:41:00,2,Done,10
+63,PROJA-00063,1,1,7,1,Story,P3,Create audit log admin tool,2025-05-15 13:21:00,2025-06-14 15:21:00,8,Done,36
+64,PROJA-00064,1,1,7,5,Story,P4,Build payments page,2025-06-20 17:51:00,2025-08-01 22:51:00,2,Done,39
+65,PROJA-00065,1,1,7,1,Story,P3,Create settings admin tool,2024-05-11 11:44:00,2024-06-11 12:44:00,2,Done,10
+66,PROJA-00066,1,1,7,2,Story,P4,Refine reports UX,2025-10-19 09:20:00,2025-11-21 11:20:00,5,Done,47
+67,PROJA-00067,1,1,7,4,Bug,P2,Fix session issue in reports,2025-12-23 15:02:00,2026-01-02 17:02:00,1,Done,52
+68,PROJA-00068,1,1,7,4,Story,P2,Refine checkout UX,2024-06-12 14:17:00,2024-06-23 14:17:00,5,Done,12
+69,PROJA-00069,1,1,7,5,Bug,P3,Fix session issue in admin,2025-12-24 09:30:00,2026-01-07 09:30:00,3,Done,52
+70,PROJA-00070,1,1,7,2,Bug,P3,Resolve UI regression in login,2025-09-13 12:30:00,2025-09-25 17:30:00,2,Done,45
+71,PROJA-00071,1,2,8,8,Story,P4,Implement checkout service,2024-10-03 16:01:00,2024-10-16 17:01:00,3,Done,20
+72,PROJA-00072,1,2,8,6,Story,P1,Implement settings service,2024-11-20 14:30:00,2024-11-26 16:30:00,3,Done,24
+73,PROJA-00073,1,2,8,8,Story,P3,Optimize checkout query,2024-11-18 10:13:00,2024-12-07 13:13:00,3,Done,24
+74,PROJA-00074,1,2,8,6,Bug,P3,Fix API bug in payments,2024-03-24 15:06:00,2024-04-11 16:06:00,3,Done,6
+75,PROJA-00075,1,2,8,7,Story,P4,Design checkout endpoint,2024-09-14 15:54:00,2024-10-14 20:54:00,2,Done,19
+76,PROJA-00076,1,2,8,7,Story,P3,Implement payments service,2025-01-03 15:47:00,,5,Backlog,27
+77,PROJA-00077,1,2,8,8,Bug,P4,Fix API bug in offline sync,2024-02-26 08:34:00,2024-03-25 12:34:00,1,Done,5
+78,PROJA-00078,1,2,8,7,Story,P3,Introduce billing caching,2024-10-07 15:16:00,2024-10-22 19:16:00,13,Done,21
+79,PROJA-00079,1,2,8,7,Story,P4,Design login endpoint,2025-11-12 17:03:00,2025-12-19 17:03:00,5,Done,49
+80,PROJA-00080,1,2,8,8,Story,P1,Implement export service,2025-05-12 14:50:00,2025-05-17 15:50:00,3,Done,36
+81,PROJA-00081,1,2,9,7,Bug,P3,Fix auth issue in payments,2024-08-17 15:57:00,2024-08-30 16:57:00,3,Done,17
+82,PROJA-00082,1,2,9,8,Story,P3,Optimize profile query,2025-01-28 12:22:00,2025-02-15 15:22:00,5,Done,29
+83,PROJA-00083,1,2,9,7,Story,P2,Introduce billing caching,2024-06-03 13:38:00,2024-06-13 16:38:00,3,Done,12
+84,PROJA-00084,1,2,9,7,Story,P3,Add billing audit logging,2024-02-15 10:22:00,2024-03-01 10:22:00,5,Done,4
+85,PROJA-00085,1,2,9,7,Story,P3,Design checkout endpoint,2024-01-25 11:12:00,2024-02-21 12:12:00,5,Done,2
+86,PROJA-00086,1,2,9,6,Story,P3,Add export audit logging,2024-01-05 11:53:00,2024-01-30 14:53:00,8,Done,1
+87,PROJA-00087,1,2,9,6,Bug,P2,Fix auth issue in settings,2024-03-15 08:05:00,2024-03-29 11:05:00,8,Done,6
+88,PROJA-00088,1,2,9,7,Story,P2,Optimize settings query,2024-11-17 11:33:00,2024-12-03 16:33:00,13,Done,23
+89,PROJA-00089,1,2,9,8,Bug,P3,Resolve DB deadlock in checkout,2024-03-18 13:46:00,2024-03-22 18:46:00,1,Done,6
+90,PROJA-00090,1,2,9,7,Bug,P1,Patch data integrity issue in checkout,2024-02-14 08:25:00,2024-02-18 12:25:00,3,Done,4
+91,PROJA-00091,1,2,10,7,Bug,P4,Patch data integrity issue in audit log,2025-04-15 08:34:00,2025-04-29 11:34:00,1,Done,34
+92,PROJA-00092,1,2,10,7,Bug,P2,Resolve DB deadlock in settings,2024-06-03 08:15:00,,1,Blocked,12
+93,PROJA-00093,1,2,10,6,Story,P4,Design offline sync endpoint,2024-02-02 09:28:00,2024-03-02 11:28:00,2,Done,3
+94,PROJA-00094,1,2,10,8,Bug,P3,Correct caching bug in search,2024-03-27 08:41:00,2024-04-13 12:41:00,3,Done,7
+95,PROJA-00095,1,2,10,7,Story,P3,Implement billing service,2025-05-18 17:39:00,2025-06-09 18:39:00,5,Done,36
+96,PROJA-00096,1,2,10,8,Bug,P2,Correct caching bug in audit log,2024-07-18 15:07:00,,5,In Progress,15
+97,PROJA-00097,1,2,10,7,Bug,P3,Fix API bug in accessibility,2024-03-26 11:01:00,2024-04-08 15:01:00,3,Done,7
+98,PROJA-00098,1,2,10,7,Bug,P3,Correct caching bug in rate limiting,2025-07-17 11:16:00,,1,Selected for Development,41
+99,PROJA-00099,1,2,10,7,Story,P3,Design notifications endpoint,2025-05-16 16:36:00,2025-05-24 16:36:00,5,Done,36
+100,PROJA-00100,1,2,10,6,Story,P4,Optimize audit log query,2024-06-09 11:42:00,2024-06-28 15:42:00,2,Done,12
+101,PROJA-00101,1,2,11,7,Story,P2,Optimize offline sync query,2025-04-12 08:53:00,,1,Backlog,34
+102,PROJA-00102,1,2,11,7,Story,P4,Implement accessibility service,2025-03-19 16:09:00,2025-05-04 20:09:00,8,Done,32
+103,PROJA-00103,1,2,11,7,Story,P4,Implement billing service,2025-09-25 09:07:00,2025-09-29 09:07:00,5,Done,46
+104,PROJA-00104,1,2,11,7,Story,P3,Introduce offline sync caching,2024-08-01 11:20:00,,5,In Progress,16
+105,PROJA-00105,1,2,11,7,Bug,P3,Correct caching bug in rate limiting,2024-10-13 14:33:00,2024-11-04 15:33:00,5,Done,21
+106,PROJA-00106,1,2,11,6,Story,P2,Implement billing service,2024-01-02 09:19:00,2024-01-22 12:19:00,5,Done,1
+107,PROJA-00107,1,2,11,6,Story,P4,Implement payments service,2024-11-20 09:49:00,2024-12-24 14:49:00,5,Done,24
+108,PROJA-00108,1,2,11,7,Story,P2,Implement rate limiting service,2024-01-22 13:26:00,2024-01-27 17:26:00,8,Done,2
+109,PROJA-00109,1,2,11,8,Story,P2,Add export audit logging,2024-10-18 14:09:00,2024-10-29 14:09:00,2,Done,21
+110,PROJA-00110,1,2,11,7,Bug,P4,Resolve DB deadlock in audit log,2024-10-26 11:24:00,2024-12-04 14:24:00,2,Done,22
+111,PROJA-00111,1,2,12,8,Story,P3,Introduce search caching,2025-08-02 09:46:00,2025-08-29 13:46:00,1,Done,42
+112,PROJA-00112,1,2,12,6,Story,P4,Optimize settings query,2024-10-04 10:05:00,,3,Selected for Development,20
+113,PROJA-00113,1,2,12,6,Story,P3,Design audit log endpoint,2025-09-20 17:30:00,,3,In Progress,45
+114,PROJA-00114,1,2,12,8,Story,P2,Optimize login query,2024-05-13 12:54:00,2024-05-28 12:54:00,5,Done,10
+115,PROJA-00115,1,2,12,8,Bug,P2,Patch data integrity issue in settings,2024-06-03 13:23:00,,2,In Progress,12
+116,PROJA-00116,1,2,12,6,Story,P3,Introduce search caching,2024-04-10 16:01:00,2024-05-05 20:01:00,13,Done,8
+117,PROJA-00117,1,2,12,8,Story,P3,Add billing audit logging,2025-05-09 13:29:00,,8,Backlog,36
+118,PROJA-00118,1,2,12,7,Bug,P3,Patch data integrity issue in rate limiting,2024-08-04 17:04:00,2024-08-16 18:04:00,8,Done,16
+119,PROJA-00119,1,2,12,7,Story,P4,Design billing endpoint,2024-10-19 11:36:00,2024-11-22 13:36:00,3,Done,21
+120,PROJA-00120,1,2,12,7,Story,P3,Design search endpoint,2024-05-21 11:02:00,2024-06-06 14:02:00,8,Done,11
+121,PROJA-00121,1,2,13,6,Story,P3,Add search audit logging,2025-12-18 08:59:00,2025-12-28 11:59:00,1,Done,52
+122,PROJA-00122,1,2,13,8,Story,P4,Optimize search query,2025-12-22 15:08:00,2026-02-01 20:08:00,1,Done,52
+123,PROJA-00123,1,2,13,7,Story,P1,Add search audit logging,2024-06-15 08:16:00,2024-06-19 11:16:00,1,Done,12
+124,PROJA-00124,1,2,13,7,Story,P1,Introduce payments caching,2025-09-17 17:58:00,2025-09-24 21:58:00,13,Done,45
+125,PROJA-00125,1,2,13,7,Bug,P3,Fix API bug in export,2024-02-22 14:28:00,,1,Backlog,4
+126,PROJA-00126,1,2,13,7,Story,P4,Optimize settings query,2024-07-23 11:56:00,2024-08-27 11:56:00,8,Done,15
+127,PROJA-00127,1,2,13,6,Bug,P2,Fix API bug in rate limiting,2024-01-05 10:25:00,2024-01-13 14:25:00,2,Done,1
+128,PROJA-00128,1,2,13,7,Story,P2,Design export endpoint,2025-06-03 13:12:00,2025-06-19 13:12:00,2,Done,38
+129,PROJA-00129,1,2,13,7,Story,P2,Add accessibility audit logging,2024-08-23 17:31:00,2024-09-01 18:31:00,2,Done,17
+130,PROJA-00130,1,2,13,6,Story,P1,Implement rate limiting service,2024-02-02 10:46:00,2024-02-09 13:46:00,1,Done,3
+131,PROJA-00131,1,3,14,11,Story,P3,Add Swift UI for settings,2025-10-04 16:19:00,,1,Backlog,46
+132,PROJA-00132,1,3,14,9,Bug,P3,Fix iOS sync bug in reports,2025-09-11 08:54:00,2025-09-22 13:54:00,8,Done,45
+133,PROJA-00133,1,3,14,10,Story,P3,Add iOS support for checkout,2025-03-15 16:27:00,2025-03-31 18:27:00,5,Done,32
+134,PROJA-00134,1,3,14,11,Bug,P3,Patch iOS notification bug in settings,2024-03-15 13:57:00,,3,Blocked,6
+135,PROJA-00135,1,3,14,11,Story,P2,Implement iOS audit log,2025-11-23 13:49:00,2025-11-30 13:49:00,3,Done,50
+136,PROJA-00136,1,3,14,11,Bug,P2,Resolve iOS UI glitch in audit log,2024-02-14 16:05:00,2024-02-22 17:05:00,2,Done,4
+137,PROJA-00137,1,3,14,9,Story,P1,Add Swift UI for profile,2024-05-15 08:58:00,,8,Backlog,10
+138,PROJA-00138,1,3,14,11,Story,P3,Add Swift UI for login,2025-09-05 09:40:00,2025-09-24 13:40:00,8,Done,44
+139,PROJA-00139,1,3,14,10,Story,P2,Add iOS support for payments,2024-12-03 13:43:00,2024-12-14 13:43:00,5,Done,25
+140,PROJA-00140,1,3,14,12,Story,P3,Add Swift UI for rate limiting,2024-01-10 08:55:00,2024-01-31 08:55:00,8,Done,1
+141,PROJA-00141,1,3,15,12,Bug,P4,Fix iOS performance regression in payments,2025-05-22 16:57:00,2025-06-17 21:57:00,1,Done,37
+142,PROJA-00142,1,3,15,10,Story,P3,Improve iOS settings performance,2024-05-12 17:46:00,2024-05-24 19:46:00,8,Done,10
+143,PROJA-00143,1,3,15,13,Story,P3,Refactor iOS profile flow,2025-04-09 12:59:00,2025-05-01 14:59:00,3,Done,34
+144,PROJA-00144,1,3,15,11,Bug,P2,Resolve iOS UI glitch in offline sync,2025-01-20 11:15:00,2025-01-29 16:15:00,5,Done,28
+145,PROJA-00145,1,3,15,13,Bug,P1,Fix crash in iOS login,2025-05-21 11:04:00,2025-05-25 16:04:00,8,Done,37
+146,PROJA-00146,1,3,15,12,Story,P3,Implement iOS rate limiting,2024-08-25 11:39:00,2024-09-25 15:39:00,8,Done,17
+147,PROJA-00147,1,3,15,11,Story,P2,Add Swift UI for offline sync,2025-12-03 08:06:00,2025-12-09 13:06:00,5,Done,51
+148,PROJA-00148,1,3,15,10,Bug,P3,Resolve iOS UI glitch in reports,2025-04-05 16:55:00,2025-04-18 21:55:00,3,Done,33
+149,PROJA-00149,1,3,15,10,Story,P3,Add Swift UI for export,2025-12-21 16:23:00,2026-01-08 21:23:00,3,Done,52
+150,PROJA-00150,1,3,15,12,Story,P2,Improve iOS login performance,2025-07-24 14:43:00,2025-08-08 17:43:00,3,Done,41
+151,PROJA-00151,1,3,16,11,Story,P3,Improve iOS search performance,2025-10-30 08:30:00,2025-11-18 10:30:00,3,Done,48
+152,PROJA-00152,1,3,16,11,Bug,P1,Resolve iOS UI glitch in offline sync,2024-01-16 08:06:00,2024-01-20 10:06:00,1,Done,2
+153,PROJA-00153,1,3,16,12,Story,P3,Refactor iOS rate limiting flow,2025-07-30 12:35:00,2025-08-13 17:35:00,5,Done,42
+154,PROJA-00154,1,3,16,9,Bug,P3,Fix iOS sync bug in billing,2025-10-07 10:27:00,2025-10-31 10:27:00,3,Done,47
+155,PROJA-00155,1,3,16,10,Story,P2,Add iOS support for offline sync,2024-07-15 17:08:00,,5,In Progress,15
+156,PROJA-00156,1,3,16,12,Bug,P4,Resolve iOS UI glitch in export,2024-11-25 16:08:00,2024-12-11 20:08:00,1,Done,24
+157,PROJA-00157,1,3,16,10,Story,P4,Improve iOS login performance,2024-10-27 17:52:00,,8,Selected for Development,22
+158,PROJA-00158,1,3,16,10,Bug,P3,Patch iOS notification bug in accessibility,2025-05-04 13:03:00,,1,Backlog,35
+159,PROJA-00159,1,3,16,11,Story,P2,Refactor iOS admin flow,2025-08-13 15:26:00,2025-08-27 16:26:00,8,Done,43
+160,PROJA-00160,1,3,16,12,Story,P3,Refactor iOS export flow,2024-05-20 11:58:00,2024-06-07 11:58:00,3,Done,11
+161,PROJA-00161,1,3,17,10,Story,P3,Refactor iOS reports flow,2024-10-28 08:00:00,,8,Backlog,22
+162,PROJA-00162,1,3,17,12,Story,P2,Refactor iOS profile flow,2024-03-31 17:37:00,2024-04-14 21:37:00,5,Done,7
+163,PROJA-00163,1,3,17,9,Story,P2,Refactor iOS profile flow,2024-02-25 15:34:00,2024-03-11 18:34:00,5,Done,4
+164,PROJA-00164,1,3,17,10,Story,P2,Implement iOS offline sync,2024-10-29 12:59:00,2024-11-06 15:59:00,3,Done,22
+165,PROJA-00165,1,3,17,11,Story,P3,Add iOS support for export,2024-08-30 15:03:00,2024-09-29 20:03:00,8,Done,18
+166,PROJA-00166,1,3,17,11,Bug,P3,Resolve iOS UI glitch in rate limiting,2025-11-08 16:25:00,,3,Blocked,49
+167,PROJA-00167,1,3,17,11,Story,P3,Implement iOS payments,2024-11-20 10:17:00,2024-12-12 11:17:00,3,Done,24
+168,PROJA-00168,1,3,17,13,Bug,P4,Resolve iOS UI glitch in rate limiting,2025-05-29 15:48:00,2025-06-17 15:48:00,2,Done,37
+169,PROJA-00169,1,3,17,9,Bug,P4,Resolve iOS UI glitch in profile,2025-11-10 12:52:00,2025-12-10 13:52:00,1,Done,49
+170,PROJA-00170,1,3,17,10,Bug,P1,Fix iOS performance regression in settings,2024-05-09 11:28:00,2024-05-12 13:28:00,8,Done,10
+171,PROJA-00171,1,3,18,11,Story,P4,Implement iOS audit log,2025-07-08 09:55:00,2025-08-06 10:55:00,2,Done,40
+172,PROJA-00172,1,3,18,10,Bug,P3,Fix crash in iOS offline sync,2025-10-20 15:52:00,,5,In Progress,48
+173,PROJA-00173,1,3,18,10,Bug,P3,Fix iOS performance regression in billing,2025-10-19 10:51:00,2025-11-06 13:51:00,5,Done,47
+174,PROJA-00174,1,3,18,13,Bug,P3,Fix iOS performance regression in offline sync,2025-09-06 16:19:00,2025-09-23 16:19:00,2,Done,44
+175,PROJA-00175,1,3,18,9,Story,P3,Implement iOS settings,2025-06-08 11:36:00,2025-06-26 15:36:00,5,Done,38
+176,PROJA-00176,1,3,18,11,Story,P3,Refactor iOS accessibility flow,2025-02-09 08:19:00,2025-02-24 08:19:00,2,Done,29
+177,PROJA-00177,1,3,18,9,Bug,P4,Resolve iOS UI glitch in login,2024-08-22 16:22:00,2024-09-07 20:22:00,2,Done,17
+178,PROJA-00178,1,3,18,13,Story,P2,Improve iOS search performance,2024-12-28 10:40:00,2025-01-05 10:40:00,8,Done,26
+179,PROJA-00179,1,3,18,10,Bug,P1,Fix crash in iOS login,2025-12-05 09:37:00,,1,Blocked,51
+180,PROJA-00180,1,3,18,10,Story,P3,Add iOS support for offline sync,2024-05-01 11:57:00,2024-05-21 11:57:00,3,Done,9
+181,PROJA-00181,1,3,19,10,Story,P2,Implement iOS offline sync,2025-04-02 17:15:00,2025-04-12 17:15:00,2,Done,33
+182,PROJA-00182,1,3,19,12,Bug,P1,Fix crash in iOS rate limiting,2024-08-02 08:04:00,2024-08-04 13:04:00,3,Done,16
+183,PROJA-00183,1,3,19,9,Bug,P4,Fix iOS sync bug in settings,2024-09-08 16:50:00,2024-09-29 21:50:00,1,Done,18
+184,PROJA-00184,1,3,19,12,Story,P3,Refactor iOS payments flow,2025-04-06 09:56:00,,8,Backlog,33
+185,PROJA-00185,1,3,19,10,Story,P2,Refactor iOS payments flow,2024-07-11 08:30:00,2024-07-21 13:30:00,13,Done,14
+186,PROJA-00186,1,3,19,9,Story,P3,Improve iOS search performance,2025-05-18 12:58:00,2025-05-30 15:58:00,8,Done,36
+187,PROJA-00187,1,3,19,12,Story,P2,Refactor iOS settings flow,2025-05-06 10:50:00,2025-05-15 14:50:00,8,Done,36
+188,PROJA-00188,1,3,19,12,Story,P2,Add iOS support for offline sync,2025-04-09 17:18:00,2025-04-13 21:18:00,8,Done,34
+189,PROJA-00189,1,3,19,11,Bug,P2,Resolve iOS UI glitch in offline sync,2025-08-20 16:04:00,2025-08-31 21:04:00,8,Done,43
+190,PROJA-00190,1,3,19,12,Story,P3,Refactor iOS audit log flow,2025-05-03 17:57:00,2025-05-24 18:57:00,5,Done,35
+191,PROJA-00191,1,4,20,15,Bug,P3,Fix Android sync bug in accessibility,2025-04-27 14:11:00,2025-04-28 18:11:00,3,Done,35
+192,PROJA-00192,1,4,20,15,Story,P1,Refactor Android accessibility flow,2024-04-13 08:27:00,2024-04-19 08:27:00,5,Done,8
+193,PROJA-00193,1,4,20,14,Story,P3,Add Kotlin UI for accessibility,2024-08-14 12:30:00,2024-09-09 13:30:00,2,Done,17
+194,PROJA-00194,1,4,20,14,Story,P1,Add Android support for export,2025-11-06 08:27:00,,5,Backlog,49
+195,PROJA-00195,1,4,20,15,Story,P3,Add Android support for profile,2024-07-25 16:23:00,,2,Backlog,15
+196,PROJA-00196,1,4,20,17,Bug,P2,Patch Android deep link bug in checkout,2025-05-01 11:28:00,2025-05-12 13:28:00,1,Done,35
+197,PROJA-00197,1,4,20,16,Story,P4,Improve Android settings performance,2024-01-26 08:53:00,2024-02-18 10:53:00,3,Done,2
+198,PROJA-00198,1,4,20,14,Story,P2,Add Kotlin UI for checkout,2024-06-16 13:14:00,,5,Selected for Development,12
+199,PROJA-00199,1,4,20,17,Story,P4,Implement Android reports,2025-07-26 17:29:00,2025-08-07 17:29:00,3,Done,41
+200,PROJA-00200,1,4,20,14,Story,P3,Improve Android search performance,2024-08-09 16:27:00,2024-08-29 16:27:00,8,Done,16
+201,PROJA-00201,1,4,21,18,Bug,P2,Fix crash in Android rate limiting,2025-11-03 16:02:00,2025-11-07 18:02:00,2,Done,49
+202,PROJA-00202,1,4,21,16,Bug,P2,Resolve Android UI glitch in accessibility,2025-07-20 10:47:00,2025-07-27 11:47:00,2,Done,41
+203,PROJA-00203,1,4,21,16,Story,P2,Improve Android audit log performance,2024-03-15 08:35:00,2024-03-27 09:35:00,3,Done,6
+204,PROJA-00204,1,4,21,16,Story,P2,Improve Android profile performance,2024-07-28 08:27:00,2024-08-04 12:27:00,8,Done,15
+205,PROJA-00205,1,4,21,14,Bug,P2,Resolve Android UI glitch in accessibility,2025-01-23 16:45:00,,5,Backlog,28
+206,PROJA-00206,1,4,21,15,Story,P2,Add Kotlin UI for settings,2025-05-11 09:30:00,2025-05-24 09:30:00,13,Done,36
+207,PROJA-00207,1,4,21,14,Bug,P4,Fix crash in Android audit log,2024-01-03 12:08:00,2024-02-04 12:08:00,1,Done,1
+208,PROJA-00208,1,4,21,14,Story,P3,Add Android support for reports,2024-05-10 14:46:00,2024-06-02 16:46:00,5,Done,10
+209,PROJA-00209,1,4,21,17,Story,P3,Add Kotlin UI for profile,2025-07-21 11:55:00,2025-08-14 12:55:00,3,Done,41
+210,PROJA-00210,1,4,21,15,Bug,P2,Patch Android deep link bug in profile,2024-06-03 13:51:00,2024-06-05 15:51:00,3,Done,12
+211,PROJA-00211,1,4,22,17,Bug,P2,Patch Android deep link bug in offline sync,2024-03-26 08:59:00,2024-04-05 08:59:00,8,Done,7
+212,PROJA-00212,1,4,22,16,Story,P2,Add Android support for billing,2025-08-31 11:50:00,2025-09-12 11:50:00,8,Done,44
+213,PROJA-00213,1,4,22,18,Story,P2,Improve Android search performance,2024-02-05 14:31:00,,5,In Progress,3
+214,PROJA-00214,1,4,22,17,Bug,P4,Fix crash in Android billing,2024-05-27 12:19:00,2024-06-27 16:19:00,3,Done,11
+215,PROJA-00215,1,4,22,17,Story,P2,Improve Android audit log performance,2025-02-27 16:24:00,,5,Backlog,31
+216,PROJA-00216,1,4,22,14,Story,P3,Improve Android login performance,2024-01-14 15:10:00,2024-01-19 17:10:00,5,Done,1
+217,PROJA-00217,1,4,22,15,Story,P3,Add Android support for offline sync,2025-02-25 09:50:00,2025-03-13 14:50:00,2,Done,31
+218,PROJA-00218,1,4,22,16,Story,P4,Implement Android settings,2024-06-26 13:36:00,2024-07-18 16:36:00,2,Done,13
+219,PROJA-00219,1,4,22,14,Story,P4,Improve Android reports performance,2025-05-03 11:14:00,2025-05-17 16:14:00,5,Done,35
+220,PROJA-00220,1,4,22,14,Story,P2,Refactor Android offline sync flow,2025-10-29 14:25:00,2025-11-04 14:25:00,2,Done,48
+221,PROJA-00221,1,4,23,18,Bug,P2,Fix Android performance regression in notifications,2025-09-12 16:30:00,,1,Backlog,45
+222,PROJA-00222,1,4,23,17,Story,P2,Implement Android checkout,2025-10-17 14:15:00,2025-10-30 16:15:00,3,Done,47
+223,PROJA-00223,1,4,23,17,Bug,P3,Resolve Android UI glitch in accessibility,2024-12-08 14:39:00,2024-12-19 18:39:00,5,Done,25
+224,PROJA-00224,1,4,23,18,Story,P3,Implement Android accessibility,2025-05-13 13:24:00,,3,Selected for Development,36
+225,PROJA-00225,1,4,23,14,Story,P3,Improve Android checkout performance,2025-07-28 10:47:00,2025-08-22 12:47:00,3,Done,42
+226,PROJA-00226,1,4,23,16,Story,P4,Implement Android notifications,2025-05-17 12:56:00,2025-06-20 12:56:00,3,Done,36
+227,PROJA-00227,1,4,23,15,Story,P4,Add Kotlin UI for accessibility,2025-04-15 08:53:00,2025-04-26 13:53:00,3,Done,34
+228,PROJA-00228,1,4,23,15,Story,P1,Add Kotlin UI for notifications,2025-04-05 14:54:00,2025-04-11 18:54:00,3,Done,33
+229,PROJA-00229,1,4,23,17,Story,P3,Add Android support for export,2024-01-26 17:10:00,2024-02-16 17:10:00,1,Done,2
+230,PROJA-00230,1,4,23,15,Story,P3,Improve Android export performance,2025-05-04 15:50:00,2025-05-24 16:50:00,3,Done,35
+231,PROJA-00231,1,4,24,18,Story,P3,Add Kotlin UI for reports,2024-07-18 17:25:00,2024-08-14 19:25:00,3,Done,15
+232,PROJA-00232,1,4,24,16,Story,P2,Refactor Android offline sync flow,2024-10-04 08:03:00,2024-10-19 09:03:00,5,Done,20
+233,PROJA-00233,1,4,24,16,Story,P1,Add Android support for payments,2024-07-23 16:38:00,2024-07-30 17:38:00,5,Done,15
+234,PROJA-00234,1,4,24,14,Story,P4,Improve Android audit log performance,2025-07-07 12:58:00,2025-08-10 16:58:00,8,Done,40
+235,PROJA-00235,1,4,24,17,Story,P2,Improve Android checkout performance,2024-07-04 09:16:00,2024-07-17 09:16:00,8,Done,14
+236,PROJA-00236,1,4,24,14,Story,P1,Add Kotlin UI for login,2024-11-12 08:13:00,2024-11-15 11:13:00,8,Done,23
+237,PROJA-00237,1,4,24,14,Bug,P3,Fix crash in Android reports,2025-10-20 10:20:00,,3,Backlog,48
+238,PROJA-00238,1,4,24,16,Story,P3,Implement Android notifications,2025-02-19 09:08:00,2025-03-10 10:08:00,3,Done,30
+239,PROJA-00239,1,4,24,18,Story,P3,Implement Android admin,2025-04-03 11:32:00,2025-04-27 11:32:00,5,Done,33
+240,PROJA-00240,1,4,24,17,Story,P3,Improve Android rate limiting performance,2025-03-23 17:01:00,2025-04-07 20:01:00,3,Done,32
+241,PROJA-00241,1,4,25,14,Story,P3,Refactor Android checkout flow,2025-02-08 14:54:00,2025-02-27 15:54:00,3,Done,29
+242,PROJA-00242,1,4,25,18,Story,P2,Add Kotlin UI for export,2025-05-19 17:36:00,2025-05-22 18:36:00,2,Done,37
+243,PROJA-00243,1,4,25,15,Bug,P2,Fix Android sync bug in checkout,2024-02-15 11:42:00,,1,Selected for Development,4
+244,PROJA-00244,1,4,25,16,Story,P3,Implement Android export,2025-12-08 10:01:00,2025-12-20 13:01:00,5,Done,51
+245,PROJA-00245,1,4,25,14,Story,P4,Implement Android settings,2025-08-29 13:21:00,2025-09-22 14:21:00,3,Done,44
+246,PROJA-00246,1,4,25,17,Story,P3,Refactor Android billing flow,2025-05-26 09:41:00,2025-06-08 12:41:00,8,Done,37
+247,PROJA-00247,1,4,25,14,Bug,P1,Fix Android sync bug in reports,2024-03-13 14:58:00,2024-03-16 15:58:00,1,Done,6
+248,PROJA-00248,1,4,25,16,Story,P3,Add Kotlin UI for payments,2024-07-12 14:20:00,,2,Selected for Development,14
+249,PROJA-00249,1,4,25,15,Bug,P3,Fix Android performance regression in login,2024-01-07 09:20:00,2024-01-28 13:20:00,2,Done,1
+250,PROJA-00250,1,4,25,16,Bug,P3,Resolve Android UI glitch in audit log,2024-01-28 09:24:00,2024-02-13 09:24:00,2,Done,2
+251,PROJB-00251,2,1,26,3,Story,P1,Add checkout module,2025-09-27 14:49:00,2025-10-06 18:49:00,3,Done,98
+252,PROJB-00252,2,1,26,3,Story,P2,Build notifications page,2025-01-13 11:46:00,2025-01-17 16:46:00,5,Done,80
+253,PROJB-00253,2,1,26,3,Story,P3,Add profile module,2024-02-04 08:20:00,2024-02-24 10:20:00,5,Done,55
+254,PROJB-00254,2,1,26,1,Story,P3,Implement accessibility workflow,2025-08-26 17:24:00,2025-09-12 18:24:00,5,Done,96
+255,PROJB-00255,2,1,26,1,Bug,P3,Patch validation issue in admin,2025-02-08 11:19:00,2025-02-20 13:19:00,3,Done,81
+256,PROJB-00256,2,1,26,3,Story,P2,Add offline sync module,2025-11-05 14:51:00,2025-11-17 18:51:00,5,Done,101
+257,PROJB-00257,2,1,26,5,Bug,P2,Fix session issue in notifications,2024-01-13 17:00:00,,2,Blocked,53
+258,PROJB-00258,2,1,26,3,Story,P2,Add offline sync module,2024-08-30 10:01:00,2024-09-15 11:01:00,8,Done,70
+259,PROJB-00259,2,1,26,4,Story,P3,Implement notifications workflow,2024-02-05 08:13:00,2024-03-07 11:13:00,3,Done,55
+260,PROJB-00260,2,1,26,5,Story,P1,Build rate limiting page,2024-06-23 09:24:00,2024-06-29 14:24:00,5,Done,65
+261,PROJB-00261,2,1,27,5,Bug,P4,Fix PHP bug in notifications,2025-02-07 17:12:00,2025-03-12 21:12:00,3,Done,81
+262,PROJB-00262,2,1,27,3,Bug,P4,Fix PHP bug in login,2024-08-06 15:40:00,2024-08-19 17:40:00,3,Done,68
+263,PROJB-00263,2,1,27,2,Bug,P3,Correct layout in audit log,2024-03-26 17:43:00,,5,Blocked,59
+264,PROJB-00264,2,1,27,5,Story,P3,Add offline sync module,2025-03-27 17:40:00,2025-04-06 22:40:00,8,Done,85
+265,PROJB-00265,2,1,27,2,Story,P3,Refine offline sync UX,2024-11-09 12:20:00,,2,Selected for Development,75
+266,PROJB-00266,2,1,27,1,Story,P2,Refine search UX,2024-08-26 15:44:00,,8,Backlog,70
+267,PROJB-00267,2,1,27,1,Bug,P2,Fix session issue in checkout,2025-12-25 10:47:00,2026-01-05 14:47:00,3,Done,104
+268,PROJB-00268,2,1,27,1,Story,P4,Refine admin UX,2025-12-09 17:54:00,2026-01-01 20:54:00,2,Done,103
+269,PROJB-00269,2,1,27,1,Bug,P4,Fix session issue in offline sync,2025-02-25 17:37:00,2025-03-05 18:37:00,2,Done,83
+270,PROJB-00270,2,1,27,3,Story,P1,Implement offline sync workflow,2024-06-14 17:13:00,,8,Selected for Development,64
+271,PROJB-00271,2,1,28,4,Story,P4,Add audit log module,2025-04-22 08:17:00,,8,Backlog,87
+272,PROJB-00272,2,1,28,1,Bug,P2,Patch validation issue in search,2025-06-17 14:15:00,,3,Backlog,91
+273,PROJB-00273,2,1,28,3,Story,P3,Add search module,2024-07-18 09:28:00,,8,Selected for Development,67
+274,PROJB-00274,2,1,28,1,Story,P4,Implement reports workflow,2024-10-09 16:05:00,2024-11-15 19:05:00,8,Done,73
+275,PROJB-00275,2,1,28,3,Story,P3,Add login module,2025-07-28 12:23:00,2025-08-16 13:23:00,5,Done,94
+276,PROJB-00276,2,1,28,5,Story,P3,Build login page,2025-11-23 16:11:00,,3,Selected for Development,102
+277,PROJB-00277,2,1,28,5,Story,P4,Implement admin workflow,2025-09-07 11:34:00,2025-09-26 12:34:00,2,Done,96
+278,PROJB-00278,2,1,28,1,Story,P2,Add reports module,2024-09-08 08:46:00,2024-09-16 08:46:00,3,Done,70
+279,PROJB-00279,2,1,28,4,Bug,P4,Fix PHP bug in login,2025-09-09 17:29:00,2025-10-03 19:29:00,5,Done,97
+280,PROJB-00280,2,1,28,2,Story,P1,Refine admin UX,2025-03-08 10:50:00,,5,Selected for Development,83
+281,PROJB-00281,2,1,29,1,Story,P3,Create export admin tool,2024-03-29 14:29:00,2024-04-19 15:29:00,2,Done,59
+282,PROJB-00282,2,1,29,2,Story,P3,Implement admin workflow,2025-11-13 08:27:00,2025-11-26 11:27:00,2,Done,101
+283,PROJB-00283,2,1,29,4,Story,P4,Add payments module,2025-09-13 13:29:00,2025-10-04 17:29:00,13,Done,97
+284,PROJB-00284,2,1,29,5,Story,P2,Implement audit log workflow,2025-09-19 12:35:00,2025-10-07 13:35:00,5,Done,97
+285,PROJB-00285,2,1,29,4,Bug,P3,Fix session issue in login,2025-09-23 16:03:00,2025-09-30 18:03:00,1,Done,98
+286,PROJB-00286,2,1,29,1,Story,P2,Add profile module,2024-07-10 08:44:00,2024-07-26 08:44:00,8,Done,66
+287,PROJB-00287,2,1,29,3,Story,P2,Refine notifications UX,2025-10-25 12:06:00,,2,Backlog,100
+288,PROJB-00288,2,1,29,1,Story,P4,Implement login workflow,2024-01-29 10:42:00,2024-03-02 10:42:00,2,Done,55
+289,PROJB-00289,2,1,29,1,Story,P4,Implement billing workflow,2024-09-26 11:00:00,2024-10-28 14:00:00,8,Done,72
+290,PROJB-00290,2,1,29,1,Story,P1,Implement offline sync workflow,2024-02-16 15:34:00,2024-02-21 18:34:00,2,Done,56
+291,PROJB-00291,2,1,30,2,Bug,P3,Fix PHP bug in search,2024-01-04 16:14:00,2024-01-11 21:14:00,1,Done,53
+292,PROJB-00292,2,1,30,2,Bug,P3,Patch validation issue in accessibility,2025-11-27 14:36:00,2025-12-05 19:36:00,1,Done,102
+293,PROJB-00293,2,1,30,1,Story,P3,Implement search workflow,2025-10-29 15:31:00,2025-11-08 20:31:00,3,Done,100
+294,PROJB-00294,2,1,30,3,Story,P4,Build profile page,2025-08-10 17:29:00,2025-09-14 17:29:00,3,Done,94
+295,PROJB-00295,2,1,30,1,Story,P1,Refine billing UX,2025-08-20 08:57:00,2025-08-27 11:57:00,3,Done,95
+296,PROJB-00296,2,1,30,3,Story,P3,Refine checkout UX,2024-08-06 10:46:00,2024-08-29 15:46:00,8,Done,68
+297,PROJB-00297,2,1,30,3,Story,P3,Create notifications admin tool,2025-02-24 14:48:00,2025-03-17 18:48:00,5,Done,83
+298,PROJB-00298,2,1,30,1,Story,P2,Add admin module,2024-12-05 17:23:00,2024-12-22 21:23:00,3,Done,77
+299,PROJB-00299,2,1,30,4,Bug,P2,Correct layout in search,2025-05-24 10:26:00,2025-05-30 14:26:00,3,Done,89
+300,PROJB-00300,2,1,30,2,Story,P4,Build rate limiting page,2025-09-24 09:08:00,2025-11-05 09:08:00,5,Done,98
+301,PROJB-00301,2,1,31,3,Bug,P4,Patch validation issue in checkout,2025-08-07 11:14:00,2025-09-04 16:14:00,1,Done,94
+302,PROJB-00302,2,1,31,1,Story,P4,Build export page,2024-10-08 10:21:00,2024-11-17 15:21:00,2,Done,73
+303,PROJB-00303,2,1,31,2,Bug,P2,Fix session issue in profile,2025-05-26 09:34:00,2025-05-30 09:34:00,1,Done,89
+304,PROJB-00304,2,1,31,2,Bug,P3,Fix PHP bug in payments,2025-12-20 12:49:00,2026-01-09 12:49:00,1,Done,104
+305,PROJB-00305,2,1,31,3,Bug,P3,Fix PHP bug in reports,2025-07-20 17:24:00,2025-07-28 17:24:00,5,Done,93
+306,PROJB-00306,2,1,31,4,Story,P3,Implement notifications workflow,2024-11-06 09:01:00,2024-11-28 11:01:00,13,Done,75
+307,PROJB-00307,2,1,31,1,Bug,P3,Resolve UI regression in admin,2025-06-19 11:19:00,,1,Backlog,91
+308,PROJB-00308,2,1,31,1,Story,P3,Create checkout admin tool,2025-04-15 09:48:00,2025-04-21 11:48:00,2,Done,86
+309,PROJB-00309,2,1,31,1,Story,P3,Add offline sync module,2024-10-18 17:48:00,2024-10-30 17:48:00,2,Done,73
+310,PROJB-00310,2,1,31,4,Story,P4,Create admin admin tool,2024-04-07 15:17:00,2024-05-17 19:17:00,8,Done,59
+311,PROJB-00311,2,1,32,4,Story,P3,Implement reports workflow,2025-12-01 11:49:00,,3,Backlog,103
+312,PROJB-00312,2,1,32,3,Story,P2,Refine audit log UX,2024-09-06 17:03:00,2024-09-23 19:03:00,2,Done,70
+313,PROJB-00313,2,1,32,3,Bug,P4,Patch validation issue in profile,2024-06-01 11:28:00,2024-06-23 12:28:00,1,Done,63
+314,PROJB-00314,2,1,32,1,Story,P3,Create audit log admin tool,2025-10-09 14:21:00,2025-10-30 16:21:00,3,Done,99
+315,PROJB-00315,2,1,32,4,Story,P2,Add admin module,2024-11-27 09:12:00,2024-12-07 09:12:00,8,Done,76
+316,PROJB-00316,2,1,32,4,Story,P3,Create login admin tool,2025-06-23 14:33:00,2025-07-11 17:33:00,3,Done,91
+317,PROJB-00317,2,1,32,2,Bug,P3,Fix session issue in admin,2024-02-15 16:47:00,2024-03-03 20:47:00,3,Done,56
+318,PROJB-00318,2,1,32,5,Bug,P2,Correct layout in audit log,2024-10-12 14:16:00,,5,Backlog,73
+319,PROJB-00319,2,1,32,2,Story,P2,Create profile admin tool,2025-09-28 17:20:00,2025-10-13 21:20:00,3,Done,98
+320,PROJB-00320,2,1,32,4,Story,P3,Create rate limiting admin tool,2024-09-24 14:18:00,2024-10-07 14:18:00,2,Done,72
+321,PROJB-00321,2,2,33,8,Bug,P3,Fix API bug in payments,2024-04-18 08:33:00,2024-05-06 10:33:00,3,Done,60
+322,PROJB-00322,2,2,33,7,Story,P4,Introduce export caching,2025-02-19 11:37:00,2025-03-27 13:37:00,2,Done,82
+323,PROJB-00323,2,2,33,6,Story,P3,Implement rate limiting service,2024-04-05 10:20:00,2024-04-21 10:20:00,5,Done,59
+324,PROJB-00324,2,2,33,8,Bug,P4,Fix API bug in checkout,2024-03-24 17:40:00,2024-04-09 18:40:00,3,Done,58
+325,PROJB-00325,2,2,33,7,Story,P4,Implement login service,2025-07-15 16:04:00,,2,Backlog,93
+326,PROJB-00326,2,2,33,6,Story,P3,Optimize admin query,2024-06-08 09:42:00,2024-07-17 11:42:00,3,Done,64
+327,PROJB-00327,2,2,33,7,Story,P4,Add checkout audit logging,2025-04-15 10:19:00,2025-05-23 12:19:00,5,Done,86
+328,PROJB-00328,2,2,33,7,Story,P2,Add export audit logging,2025-03-25 15:11:00,2025-04-10 16:11:00,8,Done,85
+329,PROJB-00329,2,2,33,6,Bug,P2,Fix API bug in offline sync,2025-05-26 13:36:00,2025-06-04 15:36:00,3,Done,89
+330,PROJB-00330,2,2,33,7,Story,P1,Design admin endpoint,2024-02-16 16:25:00,2024-02-24 19:25:00,2,Done,56
+331,PROJB-00331,2,2,34,7,Story,P4,Introduce admin caching,2025-04-12 08:11:00,,8,Backlog,86
+332,PROJB-00332,2,2,34,7,Bug,P2,Resolve DB deadlock in admin,2024-11-05 12:45:00,2024-11-12 15:45:00,3,Done,75
+333,PROJB-00333,2,2,34,7,Story,P3,Optimize settings query,2025-03-08 10:58:00,,8,Blocked,83
+334,PROJB-00334,2,2,34,8,Story,P2,Add login audit logging,2025-07-04 15:22:00,2025-07-12 19:22:00,1,Done,92
+335,PROJB-00335,2,2,34,8,Bug,P1,Fix API bug in rate limiting,2024-07-13 12:05:00,,3,Selected for Development,66
+336,PROJB-00336,2,2,34,7,Story,P2,Introduce audit log caching,2025-09-23 13:53:00,2025-10-05 18:53:00,2,Done,98
+337,PROJB-00337,2,2,34,7,Story,P3,Introduce accessibility caching,2024-04-30 11:08:00,2024-05-24 12:08:00,8,Done,61
+338,PROJB-00338,2,2,34,6,Story,P3,Introduce checkout caching,2024-06-07 08:36:00,2024-07-01 10:36:00,13,Done,64
+339,PROJB-00339,2,2,34,7,Story,P3,Add checkout audit logging,2025-06-07 11:04:00,2025-07-07 16:04:00,5,Done,90
+340,PROJB-00340,2,2,34,7,Bug,P1,Fix API bug in notifications,2024-03-11 12:11:00,2024-03-14 15:11:00,2,Done,58
+341,PROJB-00341,2,2,35,6,Story,P2,Optimize export query,2024-02-10 12:50:00,2024-02-26 14:50:00,2,Done,55
+342,PROJB-00342,2,2,35,7,Bug,P3,Resolve DB deadlock in search,2025-04-30 13:33:00,2025-05-12 15:33:00,3,Done,87
+343,PROJB-00343,2,2,35,6,Story,P4,Add search audit logging,2024-07-14 15:42:00,2024-08-28 18:42:00,5,Done,66
+344,PROJB-00344,2,2,35,7,Story,P3,Add settings audit logging,2024-03-12 15:18:00,,5,Backlog,58
+345,PROJB-00345,2,2,35,6,Bug,P1,Fix auth issue in checkout,2024-10-22 08:23:00,2024-10-26 09:23:00,1,Done,74
+346,PROJB-00346,2,2,35,7,Story,P2,Optimize accessibility query,2025-09-04 12:11:00,2025-09-18 14:11:00,2,Done,96
+347,PROJB-00347,2,2,35,7,Story,P2,Design rate limiting endpoint,2024-01-08 11:57:00,2024-01-22 12:57:00,3,Done,53
+348,PROJB-00348,2,2,35,7,Story,P2,Implement payments service,2025-09-23 15:01:00,2025-10-04 16:01:00,5,Done,98
+349,PROJB-00349,2,2,35,8,Story,P2,Introduce checkout caching,2025-11-15 15:34:00,2025-11-28 17:34:00,5,Done,101
+350,PROJB-00350,2,2,35,6,Story,P4,Optimize profile query,2025-03-01 16:55:00,2025-04-06 19:55:00,8,Done,83
+351,PROJB-00351,2,2,36,8,Story,P2,Optimize notifications query,2024-09-12 14:06:00,2024-09-17 15:06:00,8,Done,71
+352,PROJB-00352,2,2,36,6,Story,P4,Introduce payments caching,2024-11-18 15:44:00,,3,Selected for Development,76
+353,PROJB-00353,2,2,36,6,Story,P1,Design profile endpoint,2024-07-31 16:00:00,2024-08-07 20:00:00,1,Done,68
+354,PROJB-00354,2,2,36,7,Bug,P4,Fix API bug in settings,2025-11-03 11:53:00,2025-11-12 16:53:00,2,Done,101
+355,PROJB-00355,2,2,36,8,Story,P3,Optimize settings query,2025-04-03 11:12:00,2025-04-24 15:12:00,1,Done,85
+356,PROJB-00356,2,2,36,7,Story,P3,Design admin endpoint,2024-12-03 14:43:00,2024-12-04 15:43:00,1,Done,77
+357,PROJB-00357,2,2,36,8,Story,P3,Implement audit log service,2024-06-18 12:37:00,2024-06-20 12:37:00,13,Done,65
+358,PROJB-00358,2,2,36,7,Bug,P2,Fix auth issue in admin,2024-06-06 17:52:00,2024-06-14 19:52:00,2,Done,64
+359,PROJB-00359,2,2,36,7,Story,P4,Introduce notifications caching,2025-06-07 17:39:00,2025-07-02 17:39:00,2,Done,90
+360,PROJB-00360,2,2,36,7,Story,P3,Add notifications audit logging,2025-09-01 10:08:00,2025-09-30 15:08:00,8,Done,96
+361,PROJB-00361,2,2,37,7,Bug,P4,Fix auth issue in settings,2025-04-26 13:55:00,2025-05-10 15:55:00,3,Done,87
+362,PROJB-00362,2,2,37,8,Bug,P3,Fix API bug in rate limiting,2024-01-25 11:19:00,2024-02-07 14:19:00,2,Done,54
+363,PROJB-00363,2,2,37,6,Story,P3,Introduce accessibility caching,2025-01-21 17:45:00,2025-02-08 21:45:00,3,Done,80
+364,PROJB-00364,2,2,37,7,Bug,P4,Patch data integrity issue in search,2025-07-06 11:42:00,2025-07-18 16:42:00,2,Done,92
+365,PROJB-00365,2,2,37,7,Story,P3,Add checkout audit logging,2024-03-25 09:42:00,2024-04-19 14:42:00,3,Done,59
+366,PROJB-00366,2,2,37,7,Story,P4,Optimize login query,2025-01-08 17:45:00,2025-02-04 21:45:00,2,Done,79
+367,PROJB-00367,2,2,37,7,Story,P3,Design settings endpoint,2024-11-20 17:29:00,2024-12-10 17:29:00,3,Done,76
+368,PROJB-00368,2,2,37,7,Story,P4,Introduce export caching,2025-08-24 12:11:00,2025-10-05 16:11:00,3,Done,95
+369,PROJB-00369,2,2,37,6,Story,P1,Optimize settings query,2024-05-03 16:02:00,2024-05-10 17:02:00,3,Done,61
+370,PROJB-00370,2,2,37,6,Bug,P2,Resolve DB deadlock in reports,2025-09-07 16:51:00,,3,In Progress,96
+371,PROJB-00371,2,2,38,8,Bug,P3,Resolve DB deadlock in accessibility,2024-04-17 11:59:00,2024-04-28 15:59:00,5,Done,60
+372,PROJB-00372,2,2,38,8,Story,P3,Introduce checkout caching,2024-10-12 08:09:00,2024-11-03 10:09:00,5,Done,73
+373,PROJB-00373,2,2,38,7,Story,P4,Implement checkout service,2025-06-09 10:57:00,2025-07-03 15:57:00,8,Done,90
+374,PROJB-00374,2,2,38,7,Bug,P1,Correct caching bug in audit log,2025-12-31 16:42:00,2026-01-07 19:42:00,2,Done,104
+375,PROJB-00375,2,2,38,7,Bug,P3,Patch data integrity issue in notifications,2024-12-01 08:53:00,2024-12-08 09:53:00,1,Done,76
+376,PROJB-00376,2,2,38,8,Story,P2,Introduce profile caching,2024-03-13 09:05:00,2024-03-22 09:05:00,8,Done,58
+377,PROJB-00377,2,2,38,7,Story,P3,Introduce export caching,2024-11-27 10:20:00,2024-12-10 15:20:00,5,Done,76
+378,PROJB-00378,2,2,38,7,Bug,P1,Fix API bug in notifications,2024-04-28 14:43:00,,3,Blocked,61
+379,PROJB-00379,2,2,38,7,Story,P2,Optimize audit log query,2024-10-10 14:32:00,2024-10-30 19:32:00,8,Done,73
+380,PROJB-00380,2,2,38,7,Bug,P2,Fix auth issue in search,2025-12-22 17:19:00,2026-01-02 17:19:00,2,Done,104
+381,PROJB-00381,2,3,39,13,Story,P2,Add iOS support for accessibility,2024-10-02 15:18:00,2024-10-20 17:18:00,5,Done,72
+382,PROJB-00382,2,3,39,13,Bug,P1,Fix crash in iOS reports,2025-08-25 15:50:00,2025-08-29 18:50:00,3,Done,96
+383,PROJB-00383,2,3,39,13,Story,P4,Implement iOS profile,2024-10-05 10:19:00,2024-11-18 10:19:00,8,Done,72
+384,PROJB-00384,2,3,39,9,Story,P3,Add iOS support for settings,2025-10-28 14:47:00,2025-11-13 16:47:00,2,Done,100
+385,PROJB-00385,2,3,39,10,Story,P1,Improve iOS reports performance,2024-11-19 13:18:00,2024-11-23 16:18:00,3,Done,76
+386,PROJB-00386,2,3,39,10,Story,P4,Add Swift UI for audit log,2025-12-19 13:59:00,2026-01-21 14:59:00,3,Done,104
+387,PROJB-00387,2,3,39,9,Bug,P3,Fix iOS sync bug in reports,2024-04-15 14:08:00,2024-05-02 17:08:00,3,Done,60
+388,PROJB-00388,2,3,39,12,Bug,P4,Fix iOS sync bug in reports,2024-02-05 13:46:00,2024-02-18 16:46:00,8,Done,55
+389,PROJB-00389,2,3,39,10,Bug,P4,Fix iOS sync bug in checkout,2025-09-24 11:15:00,2025-10-27 15:15:00,3,Done,98
+390,PROJB-00390,2,3,39,10,Story,P4,Improve iOS login performance,2025-01-24 10:58:00,2025-03-02 15:58:00,5,Done,80
+391,PROJB-00391,2,3,40,10,Story,P2,Improve iOS rate limiting performance,2024-01-22 08:00:00,2024-02-12 09:00:00,3,Done,54
+392,PROJB-00392,2,3,40,10,Bug,P3,Patch iOS notification bug in export,2024-02-10 16:30:00,2024-02-24 18:30:00,3,Done,55
+393,PROJB-00393,2,3,40,12,Story,P4,Add Swift UI for checkout,2024-05-15 10:03:00,,5,Backlog,62
+394,PROJB-00394,2,3,40,10,Story,P2,Implement iOS audit log,2024-10-25 12:54:00,2024-11-04 16:54:00,1,Done,74
+395,PROJB-00395,2,3,40,9,Story,P3,Improve iOS accessibility performance,2024-01-09 09:49:00,2024-01-30 14:49:00,5,Done,53
+396,PROJB-00396,2,3,40,9,Story,P2,Improve iOS notifications performance,2025-02-04 11:37:00,2025-02-20 11:37:00,2,Done,81
+397,PROJB-00397,2,3,40,12,Story,P3,Add iOS support for checkout,2024-10-12 12:22:00,2024-11-02 13:22:00,8,Done,73
+398,PROJB-00398,2,3,40,10,Bug,P2,Fix iOS performance regression in reports,2024-09-21 15:41:00,2024-09-28 19:41:00,3,Done,71
+399,PROJB-00399,2,3,40,12,Story,P2,Improve iOS checkout performance,2024-12-12 16:26:00,2024-12-28 19:26:00,8,Done,77
+400,PROJB-00400,2,3,40,9,Bug,P3,Patch iOS notification bug in accessibility,2025-12-22 17:45:00,2026-01-14 17:45:00,3,Done,104
+401,PROJB-00401,2,3,41,9,Bug,P3,Fix iOS sync bug in rate limiting,2024-01-24 14:07:00,2024-02-07 19:07:00,1,Done,54
+402,PROJB-00402,2,3,41,9,Story,P3,Implement iOS export,2025-03-11 16:00:00,2025-04-07 17:00:00,8,Done,84
+403,PROJB-00403,2,3,41,10,Story,P1,Implement iOS notifications,2024-07-18 12:04:00,2024-07-22 14:04:00,1,Done,67
+404,PROJB-00404,2,3,41,9,Story,P3,Improve iOS login performance,2024-10-21 11:24:00,2024-11-01 13:24:00,2,Done,74
+405,PROJB-00405,2,3,41,11,Bug,P3,Resolve iOS UI glitch in admin,2024-12-24 09:26:00,2025-01-10 14:26:00,1,Done,78
+406,PROJB-00406,2,3,41,10,Story,P3,Improve iOS search performance,2025-09-02 14:50:00,2025-09-16 14:50:00,2,Done,96
+407,PROJB-00407,2,3,41,11,Story,P2,Refactor iOS reports flow,2025-06-05 11:51:00,2025-06-19 16:51:00,5,Done,90
+408,PROJB-00408,2,3,41,9,Bug,P3,Resolve iOS UI glitch in billing,2025-12-03 08:21:00,2025-12-12 09:21:00,3,Done,103
+409,PROJB-00409,2,3,41,10,Story,P3,Improve iOS rate limiting performance,2025-01-05 15:17:00,2025-01-23 20:17:00,5,Done,79
+410,PROJB-00410,2,3,41,9,Story,P3,Add iOS support for rate limiting,2024-08-15 17:41:00,2024-09-11 22:41:00,8,Done,69
+411,PROJB-00411,2,3,42,11,Bug,P3,Fix crash in iOS accessibility,2024-01-04 17:40:00,,3,Backlog,53
+412,PROJB-00412,2,3,42,13,Story,P2,Add iOS support for rate limiting,2025-04-17 17:10:00,2025-05-03 22:10:00,3,Done,86
+413,PROJB-00413,2,3,42,12,Story,P3,Refactor iOS accessibility flow,2025-04-10 13:35:00,2025-05-01 16:35:00,5,Done,86
+414,PROJB-00414,2,3,42,12,Story,P3,Add Swift UI for offline sync,2025-09-09 09:16:00,2025-09-27 10:16:00,5,Done,97
+415,PROJB-00415,2,3,42,12,Bug,P2,Fix crash in iOS audit log,2024-01-15 12:19:00,,3,Backlog,54
+416,PROJB-00416,2,3,42,12,Story,P3,Add iOS support for login,2024-10-30 12:19:00,2024-11-09 13:19:00,1,Done,74
+417,PROJB-00417,2,3,42,11,Bug,P2,Fix iOS performance regression in settings,2024-11-28 17:30:00,2024-12-12 18:30:00,2,Done,76
+418,PROJB-00418,2,3,42,10,Story,P3,Add Swift UI for rate limiting,2024-11-02 13:17:00,2024-11-16 15:17:00,3,Done,74
+419,PROJB-00419,2,3,42,13,Story,P4,Improve iOS admin performance,2024-12-20 14:01:00,2025-01-16 17:01:00,1,Done,78
+420,PROJB-00420,2,3,42,13,Story,P3,Implement iOS settings,2024-10-22 17:41:00,2024-11-15 18:41:00,3,Done,74
+421,PROJB-00421,2,3,43,10,Bug,P4,Fix iOS performance regression in accessibility,2025-10-15 08:49:00,2025-10-27 12:49:00,5,Done,99
+422,PROJB-00422,2,3,43,11,Story,P4,Add Swift UI for profile,2024-09-10 16:28:00,,2,Selected for Development,71
+423,PROJB-00423,2,3,43,9,Story,P3,Add iOS support for settings,2025-08-21 08:55:00,,8,In Progress,95
+424,PROJB-00424,2,3,43,11,Story,P3,Improve iOS billing performance,2025-02-05 10:52:00,2025-02-27 14:52:00,5,Done,81
+425,PROJB-00425,2,3,43,10,Story,P4,Improve iOS notifications performance,2025-06-30 15:48:00,2025-07-27 19:48:00,2,Done,92
+426,PROJB-00426,2,3,43,11,Bug,P2,Fix iOS sync bug in audit log,2024-01-21 08:17:00,,2,Backlog,54
+427,PROJB-00427,2,3,43,12,Bug,P3,Resolve iOS UI glitch in reports,2025-10-22 12:28:00,2025-11-09 17:28:00,3,Done,100
+428,PROJB-00428,2,3,43,11,Story,P3,Add iOS support for notifications,2025-10-06 11:06:00,2025-11-03 15:06:00,8,Done,99
+429,PROJB-00429,2,3,43,11,Bug,P3,Patch iOS notification bug in offline sync,2025-10-23 15:04:00,2025-11-04 15:04:00,1,Done,100
+430,PROJB-00430,2,3,43,12,Story,P2,Add Swift UI for checkout,2025-07-02 10:22:00,2025-07-03 12:22:00,3,Done,92
+431,PROJB-00431,2,3,44,12,Bug,P2,Resolve iOS UI glitch in admin,2024-09-28 14:36:00,2024-10-05 18:36:00,5,Done,72
+432,PROJB-00432,2,3,44,11,Story,P2,Add Swift UI for checkout,2025-11-08 14:46:00,,1,Blocked,101
+433,PROJB-00433,2,3,44,10,Story,P2,Add iOS support for offline sync,2024-11-22 08:52:00,2024-12-01 10:52:00,3,Done,76
+434,PROJB-00434,2,3,44,9,Story,P3,Add Swift UI for offline sync,2025-09-07 17:56:00,2025-10-05 18:56:00,3,Done,96
+435,PROJB-00435,2,3,44,11,Bug,P3,Fix iOS sync bug in settings,2024-01-03 17:54:00,2024-01-07 19:54:00,1,Done,53
+436,PROJB-00436,2,3,44,12,Story,P2,Add iOS support for rate limiting,2024-10-29 11:33:00,2024-11-15 12:33:00,1,Done,74
+437,PROJB-00437,2,3,44,11,Bug,P1,Resolve iOS UI glitch in reports,2024-04-22 13:37:00,2024-04-25 14:37:00,5,Done,61
+438,PROJB-00438,2,3,44,9,Bug,P3,Resolve iOS UI glitch in offline sync,2025-08-09 13:31:00,2025-08-23 15:31:00,2,Done,94
+439,PROJB-00439,2,3,44,9,Story,P4,Implement iOS search,2024-06-30 10:06:00,2024-07-31 12:06:00,2,Done,65
+440,PROJB-00440,2,3,44,9,Bug,P1,Fix iOS sync bug in profile,2024-12-21 16:42:00,2024-12-26 19:42:00,1,Done,78
+441,PROJB-00441,2,4,45,16,Bug,P4,Fix crash in Android offline sync,2024-11-21 12:47:00,2024-12-22 12:47:00,8,Done,76
+442,PROJB-00442,2,4,45,14,Story,P2,Add Kotlin UI for billing,2025-12-12 12:04:00,2025-12-29 15:04:00,5,Done,103
+443,PROJB-00443,2,4,45,15,Bug,P4,Fix Android sync bug in billing,2024-02-24 12:09:00,2024-03-03 13:09:00,3,Done,56
+444,PROJB-00444,2,4,45,15,Story,P3,Refactor Android rate limiting flow,2025-08-01 08:44:00,,8,In Progress,94
+445,PROJB-00445,2,4,45,14,Story,P4,Implement Android search,2025-03-25 17:27:00,2025-05-01 20:27:00,5,Done,85
+446,PROJB-00446,2,4,45,16,Story,P2,Add Android support for audit log,2025-02-13 16:21:00,2025-03-05 20:21:00,3,Done,82
+447,PROJB-00447,2,4,45,14,Story,P2,Add Android support for reports,2024-03-22 14:42:00,,5,Backlog,58
+448,PROJB-00448,2,4,45,18,Story,P3,Refactor Android audit log flow,2025-03-01 15:07:00,2025-03-28 17:07:00,13,Done,83
+449,PROJB-00449,2,4,45,18,Story,P2,Add Android support for search,2025-03-19 16:43:00,2025-04-02 19:43:00,5,Done,84
+450,PROJB-00450,2,4,45,15,Bug,P4,Fix Android sync bug in notifications,2025-11-02 15:10:00,,3,Blocked,100
+451,PROJB-00451,2,4,46,16,Story,P3,Implement Android rate limiting,2024-05-25 14:19:00,2024-06-11 18:19:00,5,Done,63
+452,PROJB-00452,2,4,46,17,Bug,P2,Fix Android sync bug in settings,2024-12-21 15:02:00,2024-12-29 19:02:00,5,Done,78
+453,PROJB-00453,2,4,46,15,Story,P2,Improve Android payments performance,2025-05-26 15:45:00,2025-06-08 16:45:00,5,Done,89
+454,PROJB-00454,2,4,46,14,Story,P3,Refactor Android profile flow,2024-11-25 12:00:00,,2,In Progress,76
+455,PROJB-00455,2,4,46,17,Story,P4,Add Kotlin UI for offline sync,2024-10-11 13:38:00,2024-11-05 16:38:00,5,Done,73
+456,PROJB-00456,2,4,46,15,Story,P3,Improve Android checkout performance,2025-07-23 11:05:00,,8,Backlog,93
+457,PROJB-00457,2,4,46,15,Story,P4,Add Kotlin UI for accessibility,2025-03-14 09:07:00,2025-04-12 14:07:00,3,Done,84
+458,PROJB-00458,2,4,46,16,Bug,P4,Patch Android deep link bug in reports,2025-07-16 13:46:00,2025-08-12 16:46:00,5,Done,93
+459,PROJB-00459,2,4,46,18,Story,P2,Add Android support for admin,2025-07-09 11:13:00,2025-07-22 14:13:00,1,Done,92
+460,PROJB-00460,2,4,46,14,Story,P3,Improve Android reports performance,2025-02-17 15:55:00,2025-03-13 16:55:00,8,Done,82
+461,PROJB-00461,2,4,47,18,Story,P4,Implement Android export,2024-11-15 14:59:00,2024-12-23 18:59:00,3,Done,75
+462,PROJB-00462,2,4,47,15,Bug,P2,Fix crash in Android profile,2025-10-26 11:59:00,2025-11-05 13:59:00,3,Done,100
+463,PROJB-00463,2,4,47,14,Story,P3,Add Android support for reports,2025-11-22 08:53:00,2025-12-15 11:53:00,3,Done,102
+464,PROJB-00464,2,4,47,16,Story,P4,Add Android support for payments,2024-02-04 10:18:00,2024-04-03 14:18:00,3,Done,55
+465,PROJB-00465,2,4,47,18,Story,P1,Implement Android login,2024-12-05 14:59:00,2024-12-09 14:59:00,8,Done,77
+466,PROJB-00466,2,4,47,17,Story,P3,Refactor Android reports flow,2025-10-24 08:25:00,2025-11-09 08:25:00,5,Done,100
+467,PROJB-00467,2,4,47,16,Story,P3,Add Android support for export,2024-06-16 13:30:00,,8,Blocked,64
+468,PROJB-00468,2,4,47,17,Story,P3,Add Kotlin UI for settings,2024-02-29 13:03:00,,2,Backlog,57
+469,PROJB-00469,2,4,47,18,Story,P3,Implement Android rate limiting,2025-06-14 14:38:00,2025-06-25 17:38:00,2,Done,90
+470,PROJB-00470,2,4,47,15,Bug,P3,Resolve Android UI glitch in search,2025-03-02 16:50:00,2025-03-20 16:50:00,2,Done,83
+471,PROJB-00471,2,4,48,17,Story,P4,Refactor Android profile flow,2025-06-21 10:29:00,2025-08-04 14:29:00,3,Done,91
+472,PROJB-00472,2,4,48,15,Story,P3,Implement Android admin,2025-06-18 14:34:00,2025-07-05 17:34:00,2,Done,91
+473,PROJB-00473,2,4,48,14,Bug,P3,Patch Android deep link bug in export,2025-04-21 14:59:00,,3,Backlog,87
+474,PROJB-00474,2,4,48,14,Story,P3,Refactor Android checkout flow,2025-07-11 11:45:00,2025-07-27 14:45:00,3,Done,92
+475,PROJB-00475,2,4,48,17,Bug,P2,Fix crash in Android rate limiting,2025-09-20 17:36:00,2025-09-28 21:36:00,1,Done,97
+476,PROJB-00476,2,4,48,16,Bug,P2,Resolve Android UI glitch in login,2024-10-15 12:21:00,2024-10-24 13:21:00,1,Done,73
+477,PROJB-00477,2,4,48,15,Story,P3,Refactor Android search flow,2024-01-31 16:59:00,,8,Blocked,55
+478,PROJB-00478,2,4,48,14,Bug,P2,Fix crash in Android accessibility,2024-07-01 13:02:00,2024-07-11 18:02:00,1,Done,66
+479,PROJB-00479,2,4,48,17,Story,P3,Improve Android admin performance,2025-07-19 11:41:00,2025-08-13 12:41:00,5,Done,93
+480,PROJB-00480,2,4,48,18,Story,P1,Improve Android profile performance,2024-01-19 10:58:00,2024-01-24 15:58:00,5,Done,54
+481,PROJB-00481,2,4,49,16,Story,P3,Add Android support for offline sync,2025-01-06 08:04:00,2025-02-09 13:04:00,2,Done,79
+482,PROJB-00482,2,4,49,14,Story,P3,Implement Android audit log,2025-04-29 15:56:00,2025-05-20 20:56:00,5,Done,87
+483,PROJB-00483,2,4,49,16,Story,P1,Implement Android checkout,2025-01-16 11:52:00,2025-01-22 11:52:00,2,Done,80
+484,PROJB-00484,2,4,49,17,Bug,P1,Fix Android performance regression in notifications,2025-02-28 15:38:00,2025-03-03 16:38:00,1,Done,83
+485,PROJB-00485,2,4,49,16,Story,P3,Add Kotlin UI for payments,2025-01-30 09:18:00,,1,Selected for Development,81
+486,PROJB-00486,2,4,49,14,Bug,P3,Fix Android sync bug in reports,2025-09-03 17:08:00,2025-09-15 17:08:00,1,Done,96
+487,PROJB-00487,2,4,49,15,Bug,P3,Fix Android performance regression in search,2024-03-21 13:02:00,2024-04-02 14:02:00,5,Done,58
+488,PROJB-00488,2,4,49,17,Story,P3,Implement Android login,2024-04-18 09:52:00,2024-05-09 10:52:00,8,Done,60
+489,PROJB-00489,2,4,49,18,Story,P3,Improve Android offline sync performance,2024-12-06 15:52:00,2024-12-31 16:52:00,1,Done,77
+490,PROJB-00490,2,4,49,14,Bug,P2,Fix Android sync bug in settings,2025-12-22 10:08:00,2025-12-29 12:08:00,2,Done,104
+491,PROJB-00491,2,4,50,16,Story,P1,Add Kotlin UI for billing,2024-08-25 15:44:00,2024-08-29 16:44:00,8,Done,69
+492,PROJB-00492,2,4,50,17,Story,P3,Refactor Android settings flow,2024-04-23 12:11:00,2024-05-18 13:11:00,5,Done,61
+493,PROJB-00493,2,4,50,15,Bug,P4,Fix Android performance regression in search,2025-08-14 15:31:00,2025-09-03 19:31:00,3,Done,95
+494,PROJB-00494,2,4,50,14,Bug,P4,Fix crash in Android search,2025-07-20 10:42:00,2025-08-11 14:42:00,5,Done,93
+495,PROJB-00495,2,4,50,16,Story,P3,Improve Android reports performance,2025-03-18 12:01:00,2025-04-07 14:01:00,3,Done,84
+496,PROJB-00496,2,4,50,17,Story,P3,Implement Android login,2025-06-06 16:27:00,2025-06-29 18:27:00,3,Done,90
+497,PROJB-00497,2,4,50,18,Bug,P4,Patch Android deep link bug in search,2025-02-15 15:03:00,2025-03-16 17:03:00,3,Done,82
+498,PROJB-00498,2,4,50,16,Bug,P2,Patch Android deep link bug in accessibility,2025-08-28 08:34:00,,5,Selected for Development,96
+499,PROJB-00499,2,4,50,18,Story,P4,Improve Android checkout performance,2025-10-23 17:48:00,2025-11-19 20:48:00,2,Done,100
+500,PROJB-00500,2,4,50,15,Story,P3,Add Android support for search,2025-08-20 11:18:00,,2,Selected for Development,95

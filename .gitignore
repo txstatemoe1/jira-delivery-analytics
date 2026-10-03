@@ -1,0 +1,19 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables / credentials
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw Kaggle data
+data/raw/
+
+# OS files
+.DS_Store
+Thumbs.db

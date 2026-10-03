@@ -1,0 +1,5 @@
+team_id,team_name,specialization,team_type
+1,Web PHP Team,PHP,Web
+2,Backend API & DB Team,API/DB,Backend
+3,Mobile iOS Swift Team,Swift,Mobile
+4,Mobile Android Kotlin Team,Kotlin,Mobile
